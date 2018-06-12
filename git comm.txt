@@ -19,3 +19,5 @@ git commit -m "this is the changes done"    = changes done and leaves a message 
 git log  == to display the changed person date time details
 
 git log --author="mekakesava@gmail.com"   to view changes from specific person
+
+git diff  = to know exactly line to line what we changed
