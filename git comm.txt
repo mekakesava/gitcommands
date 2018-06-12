@@ -15,3 +15,7 @@ ls -la to show hidden files of git surveillance
 git add .  = to add the changes to the git
 
 git commit -m "this is the changes done"    = changes done and leaves a message at that point of time for future use
+
+git log  == to display the changed person date time details
+
+git log --author="mekakesava@gmail.com"   to view changes from specific person
