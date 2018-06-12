@@ -11,3 +11,7 @@ git help commit to know about specific command
 git init -- to make a destination folder for projects
 
 ls -la to show hidden files of git surveillance
+
+git add .  = to add the changes to the git
+
+git commit -m "this is the changes done"    = changes done and leaves a message at that point of time for future use
