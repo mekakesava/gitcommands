@@ -1,0 +1,13 @@
+git onfig --global user.name "kesava"
+
+git onfig --global user.email "kesava@ghjbjk"
+
+cd to go to specific dir
+pwd to know current dir
+ls to know items in dir
+git help to get all cmds
+git help commit to know about specific command
+ 
+git init -- to make a destination folder for projects
+
+ls -la to show hidden files of git surveillance
