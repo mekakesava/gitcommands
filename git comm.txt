@@ -21,3 +21,10 @@ git log  == to display the changed person date time details
 git log --author="mekakesava@gmail.com"   to view changes from specific person
 
 git diff  = to know exactly line to line what we changed
+
+git rm third.txt to remove file
+
+git mv second.txt pudding.txt    to rename the filename
+
+git mv second.txt kesu/pudding.txt  it will  move file from second.txt to kesu folder and renme it aas pudding
+
