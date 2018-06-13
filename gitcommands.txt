@@ -32,3 +32,4 @@ git checkout --filename
 
 git checkout -- filename  == if we want to undo changes before adding we should checkout so it will redirect to old file 
 
+git checkout lognumber -- filenAME == TO GET OLDER VESION USING LOGNUMBER
