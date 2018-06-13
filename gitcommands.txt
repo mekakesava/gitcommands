@@ -30,3 +30,5 @@ git mv second.txt kesu/pudding.txt  it will  move file from second.txt to kesu f
 
 git checkout --filename 
 
+git checkout -- filename  == if we want to undo changes before adding we should checkout so it will redirect to old file 
+
