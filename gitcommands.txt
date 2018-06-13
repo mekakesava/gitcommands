@@ -28,3 +28,5 @@ git mv second.txt pudding.txt    to rename the filename
 
 git mv second.txt kesu/pudding.txt  it will  move file from second.txt to kesu folder and renme it aas pudding
 
+git checkout --filename 
+
